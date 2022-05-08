@@ -12,6 +12,7 @@ int main() {
     // oneTo255();
     // sum255();
     int myArr[] = {1, 3, 8, 5, 6, 10, 32, 100};
+    cout << "I'm going to commit a new change" << endl;
     arrayMax(myArr, sizeof(myArr)/sizeof(myArr[0]));
     return 0;
 }
