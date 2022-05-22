@@ -25,7 +25,7 @@ int main() {
 
 void oneTo255 (){
     for(int i = 1; i <= 255; i ++){
-        cout << i << endl;
+        cout << i << endl; 
     }
 }
 
